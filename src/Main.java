@@ -21,11 +21,6 @@ public class Main {
         return realPart + " + " + imaginaryPart + "i";
     }
 
-//        ComplexNumber num1 = new ComplexNumber(2, 3);
-//        ComplexNumber num2 = new ComplexNumber(1, -2);
-//
-//        ComplexNumber sum = calculator.add(num1, num2);
-//        ComplexNumber product = calculator.multiply(num1, num2);
-//        ComplexNumber quotient = calculator.divide(num1, num2);
+
 
 }
